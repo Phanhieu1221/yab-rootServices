@@ -1,7 +1,5 @@
 
 ## Services
-### author: Phan Chí Hiếu
-### github: https://github.com/Phanhieu1221
 ### Product API 
 RESTful Go based JSON API built using the Gorilla framework. The API allows CRUD based operations on a product list.
 
